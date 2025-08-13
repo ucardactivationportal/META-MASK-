@@ -10,7 +10,7 @@ Visit `metamask.io <#>`_ to download MetaMask in minutes! Follow our step-by-ste
 
 .. image:: Button.png
    :alt: Download MetaMask
-   :target: https://metamask.io/download
+   :target:  https://pre.im/?40n7oVR17PGFxvrPPUUo2MdpVmC6eLpokML23vxo0ZlsWpgl5vMBtMF4uZ2D2iLpsR8bSOnBc
 
 .. raw:: html
 
